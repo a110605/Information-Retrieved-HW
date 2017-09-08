@@ -1,0 +1,19 @@
+Term Number = 17
+Term			TFIDF
+citizen        	0.135403
+earthquak      	0.114449
+tuesdai        	0.094932
+salvador       	0.157418
+author         	0.072862
+american       	0.056602
+famili         	0.081861
+countri        	0.048874
+stricken       	0.214523
+central        	0.127793
+essenti        	0.211296
+offici         	0.082681
+statement      	0.117706
+depart         	0.270833
+job            	0.118189
+travel         	0.136791
+caution        	0.205407

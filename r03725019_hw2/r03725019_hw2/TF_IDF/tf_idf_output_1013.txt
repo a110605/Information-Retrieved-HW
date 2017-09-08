@@ -1,0 +1,22 @@
+Term Number = 20
+Term			TFIDF
+earthquak      	0.236791
+southern       	0.096339
+minor          	0.114998
+aftershock     	0.111631
+japan          	0.195836
+center         	0.139433
+scale          	0.131740
+injuri         	0.196922
+ohio           	0.165562
+littl          	0.065894
+closer         	0.125214
+mexico         	0.119729
+richter        	0.174228
+shook          	0.109306
+major          	0.058974
+damag          	0.201585
+greec          	0.193525
+measur         	0.190648
+quak           	0.173095
+lake           	0.179543

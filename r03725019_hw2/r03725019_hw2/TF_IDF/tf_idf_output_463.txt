@@ -1,0 +1,22 @@
+Term Number = 20
+Term			TFIDF
+govern         	0.054042
+unite          	0.062941
+destroy        	0.089264
+effort         	0.084674
+cole           	0.063268
+matter         	0.127037
+demand         	0.127668
+wors           	0.174586
+yemen          	0.072280
+stage          	0.147938
+uss            	0.074722
+unidentifi     	0.204308
+attack         	0.060711
+offici         	0.039372
+york           	0.118460
+cooper         	0.259223
+try            	0.068468
+time           	0.038000
+depart         	0.085979
+quot           	0.151993

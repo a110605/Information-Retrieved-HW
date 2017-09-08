@@ -1,0 +1,24 @@
+Term Number = 22
+Term			TFIDF
+disciplinari   	0.236670
+cohen          	0.135144
+secretari      	0.085478
+defens         	0.088867
+ago            	0.075718
+suicid         	0.097214
+destroy        	0.085207
+militari       	0.061664
+recommend      	0.149315
+cole           	0.060392
+bomb           	0.065531
+anticip        	0.189332
+command        	0.097924
+fail           	0.102435
+yemen          	0.068994
+month          	0.063472
+releas         	0.089458
+navi           	0.070929
+william        	0.092530
+report         	0.045661
+action         	0.111120
+threat         	0.106570

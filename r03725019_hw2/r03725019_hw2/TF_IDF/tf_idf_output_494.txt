@@ -1,0 +1,27 @@
+Term Number = 25
+Term			TFIDF
+recov          	0.157850
+govern         	0.042033
+continu        	0.057794
+effort         	0.065858
+submarin       	0.105755
+danger         	0.087547
+diver          	0.103475
+attempt        	0.084445
+jag            	0.182188
+navi           	0.057794
+vessel         	0.110117
+commiss        	0.090934
+nuclear        	0.112862
+plan           	0.054558
+russian        	0.144821
+metal          	0.130843
+tomorrow       	0.121664
+sunken         	0.139986
+decid          	0.087547
+halt           	0.144721
+site           	0.096907
+meet           	0.068772
+offici         	0.030623
+salvag         	0.164206
+kursk          	0.110784

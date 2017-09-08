@@ -1,0 +1,27 @@
+Term Number = 25
+Term			TFIDF
+ago            	0.057441
+american       	0.039036
+forc           	0.075578
+laps           	0.145721
+air            	0.063232
+cole           	0.045815
+bomb           	0.099426
+barrack        	0.118730
+arabia         	0.094339
+uss            	0.054109
+commiss        	0.169325
+measur         	0.095324
+protect        	0.085781
+depart         	0.062260
+despit         	0.077411
+middl          	0.072695
+signific       	0.113274
+defens         	0.134833
+familiar       	0.143631
+secur          	0.041992
+command        	0.074287
+saudi          	0.086162
+offici         	0.028511
+investig       	0.047148
+region         	0.067640

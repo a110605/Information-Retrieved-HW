@@ -1,0 +1,21 @@
+Term Number = 19
+Term			TFIDF
+bbc            	0.191117
+arrest         	0.121430
+slobodan       	0.113801
+author         	0.076697
+politician     	0.171623
+strike         	0.133903
+suspicion      	0.179736
+listen         	0.192963
+miner          	0.210672
+opposit        	0.092740
+yugoslav       	0.141106
+world          	0.079018
+sabotag        	0.274039
+action         	0.128665
+coal           	0.185935
+plan           	0.077529
+connect        	0.146263
+milosev        	0.110562
+presid         	0.036051

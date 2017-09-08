@@ -1,0 +1,22 @@
+Term Number = 20
+Term			TFIDF
+tonight        	0.117706
+arriv          	0.090836
+emot           	0.169380
+terror         	0.117706
+homecom        	0.260338
+greet          	0.176639
+ship           	0.086791
+cole           	0.066431
+bomb           	0.072084
+famili         	0.081861
+kill           	0.046620
+crew           	0.105408
+surviv         	0.119169
+sailor         	0.074659
+yemen          	0.075894
+norfolk        	0.139691
+uss            	0.078458
+friend         	0.130824
+injur          	0.096480
+virginia       	0.144382

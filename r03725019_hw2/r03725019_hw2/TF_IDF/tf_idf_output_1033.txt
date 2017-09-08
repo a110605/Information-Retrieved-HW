@@ -1,0 +1,18 @@
+Term Number = 16
+Term			TFIDF
+earthquak      	0.134646
+dave           	0.241655
+recov          	0.125351
+rescu          	0.133077
+team           	0.130552
+india          	0.163471
+kill           	0.054847
+peopl          	0.096293
+head           	0.098273
+help           	0.073665
+search         	0.119745
+offici         	0.048636
+thank          	0.131549
+internat       	0.166125
+victim         	0.138478
+indian         	0.182746

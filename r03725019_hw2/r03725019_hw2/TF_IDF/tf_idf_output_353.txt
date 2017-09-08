@@ -1,0 +1,24 @@
+Term Number = 22
+Term			TFIDF
+ballot         	0.100809
+plane          	0.080378
+week           	0.039198
+question       	0.060464
+widow          	0.118217
+ashcroft       	0.110117
+dead           	0.070095
+senat          	0.158998
+kill           	0.034533
+missouri       	0.103475
+novemb         	0.126481
+roger          	0.115826
+crash          	0.094661
+wilson         	0.132019
+mel            	0.103475
+appoint        	0.102926
+jean           	0.110117
+john           	0.077527
+carnahan       	0.312095
+governor       	0.195689
+vote           	0.066260
+win            	0.145783

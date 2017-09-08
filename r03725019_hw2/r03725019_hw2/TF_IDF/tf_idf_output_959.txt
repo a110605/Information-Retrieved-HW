@@ -1,0 +1,22 @@
+Term Number = 20
+Term			TFIDF
+quick          	0.148478
+lindsai        	0.142823
+set            	0.066725
+seed           	0.125549
+reach          	0.081502
+capriati       	0.304522
+davenport      	0.139753
+monica         	0.153599
+anna           	0.171912
+straight       	0.328664
+surpris        	0.132490
+defend         	0.095770
+kournikova     	0.169890
+aussi          	0.213873
+semi           	0.189541
+time           	0.034696
+champ          	0.417503
+jennif         	0.139753
+sele           	0.156405
+women          	0.101525

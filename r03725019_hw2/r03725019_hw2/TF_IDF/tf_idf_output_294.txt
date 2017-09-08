@@ -1,0 +1,19 @@
+Term Number = 17
+Term			TFIDF
+yesterdai      	0.139691
+sundai         	0.084760
+arriv          	0.090836
+recov          	0.106549
+forc           	0.054794
+air            	0.091686
+cole           	0.066431
+kill           	0.093240
+dover          	0.191023
+peopl          	0.040925
+flown          	0.160716
+sailor         	0.149318
+wound          	0.119667
+final          	0.170520
+delawar        	0.188982
+explos         	0.079567
+base           	0.088103

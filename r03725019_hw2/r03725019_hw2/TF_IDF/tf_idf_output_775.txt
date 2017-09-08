@@ -1,0 +1,23 @@
+Term Number = 21
+Term			TFIDF
+cohen          	0.135144
+secretari      	0.085478
+tragedi        	0.142150
+inquiri        	0.163514
+defens         	0.088867
+examin         	0.141213
+destroy        	0.085207
+cole           	0.060392
+bomb           	0.131062
+kill           	0.042382
+expect         	0.080336
+sailor         	0.067872
+yemen          	0.068994
+uss            	0.071326
+naval          	0.105290
+navi           	0.070929
+william        	0.092530
+review         	0.139395
+investig       	0.062150
+octob          	0.186734
+account        	0.098645

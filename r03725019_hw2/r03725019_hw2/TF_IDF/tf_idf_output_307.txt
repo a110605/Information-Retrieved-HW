@@ -1,0 +1,25 @@
+Term Number = 23
+Term			TFIDF
+incid          	0.125934
+set            	0.061387
+week           	0.042334
+question       	0.065301
+fridai         	0.064929
+ship           	0.069433
+abl            	0.093782
+carri          	0.071561
+cole           	0.053145
+kill           	0.037296
+rais           	0.099506
+boat           	0.089453
+refuel         	0.087780
+blast          	0.092286
+yemen          	0.060715
+uss            	0.062767
+navi           	0.124834
+rip            	0.125934
+statement      	0.094165
+explos         	0.127307
+near           	0.072001
+revis          	0.169037
+account        	0.086808

@@ -1,0 +1,10 @@
+Term Number = 8
+Term			TFIDF
+reward         	0.420115
+escap          	0.320962
+month          	0.174549
+hoss           	0.874814
+ago            	0.208224
+rais           	0.310956
+prison         	0.255335
+convict        	0.273291

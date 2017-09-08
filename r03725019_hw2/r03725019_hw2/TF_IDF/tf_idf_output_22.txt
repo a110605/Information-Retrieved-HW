@@ -1,0 +1,23 @@
+Term Number = 21
+Term			TFIDF
+leader         	0.051656
+aim            	0.137726
+arrest         	0.092286
+govern         	0.090790
+offic          	0.045738
+slobodan       	0.086489
+polit          	0.062592
+reach          	0.074982
+strike         	0.203533
+surprisingli   	0.224489
+media          	0.111160
+yugoslavia     	0.085548
+miner          	0.160111
+marcher        	0.208270
+consid         	0.084932
+offici         	0.033072
+serb           	0.123459
+polic          	0.065677
+warrant        	0.169037
+drive          	0.112965
+milosev        	0.252080

@@ -1,0 +1,26 @@
+Term Number = 24
+Term			TFIDF
+ballot         	0.093857
+plane          	0.074834
+coupl          	0.114125
+week           	0.036494
+widow          	0.110064
+remain         	0.041464
+ashcroft       	0.102523
+run            	0.050250
+senat          	0.148033
+kill           	0.032152
+missouri       	0.192677
+elect          	0.043626
+crash          	0.088133
+son            	0.077411
+wilson         	0.122915
+post           	0.085031
+interim        	0.130332
+mel            	0.192677
+remov          	0.090224
+appoint        	0.095828
+john           	0.072181
+carnahan       	0.290571
+governor       	0.091097
+vote           	0.061690

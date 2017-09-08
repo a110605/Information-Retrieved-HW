@@ -1,0 +1,25 @@
+Term Number = 23
+Term			TFIDF
+brief          	0.109822
+tonight        	0.090543
+yemeni         	0.082258
+govern         	0.043649
+tell           	0.089091
+bring          	0.083163
+main           	0.084403
+cole           	0.102202
+frustrat       	0.127293
+fbi            	0.087351
+stori          	0.091290
+wish           	0.129266
+pictur         	0.132429
+yemen          	0.058380
+uss            	0.060352
+atck           	0.242514
+review         	0.117949
+damag          	0.074948
+investig       	0.157765
+brick          	0.173600
+interview      	0.085039
+wall           	0.104156
+closest        	0.135876

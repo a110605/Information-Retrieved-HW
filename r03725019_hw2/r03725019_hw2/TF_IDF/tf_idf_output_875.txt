@@ -1,0 +1,26 @@
+Term Number = 24
+Term			TFIDF
+reward         	0.240066
+richard        	0.110953
+middl          	0.075291
+oct            	0.081429
+inform         	0.139190
+spokesman      	0.063699
+tuesdai        	0.067809
+arrest         	0.082399
+cole           	0.094902
+kill           	0.033300
+respons        	0.065490
+lead           	0.064683
+announc        	0.067809
+peopl          	0.029232
+boucher        	0.175681
+sailor         	0.053328
+wound          	0.085476
+yemen          	0.054210
+uss            	0.056042
+attack         	0.091066
+dissemin       	0.200436
+october        	0.105552
+depart         	0.064484
+convict        	0.078083

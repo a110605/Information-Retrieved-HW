@@ -1,0 +1,27 @@
+Term Number = 25
+Term			TFIDF
+plane          	0.083469
+arriv          	0.069874
+recov          	0.081961
+held           	0.073260
+ceremoni       	0.117203
+ago            	0.064069
+forc           	0.042149
+air            	0.070528
+cole           	0.051101
+dover          	0.146941
+terrorist      	0.064255
+sailor         	0.114860
+yemen          	0.058380
+uss            	0.060352
+attack         	0.049036
+appar          	0.066762
+delawar        	0.145371
+brief          	0.109822
+remain         	0.046248
+carri          	0.068809
+kill           	0.035862
+morn           	0.079386
+final          	0.065585
+return         	0.059189
+base           	0.067772

@@ -1,0 +1,22 @@
+Term Number = 20
+Term			TFIDF
+career         	0.146976
+umpir          	0.247940
+seed           	0.137506
+mangu          	0.333262
+chair          	0.198347
+beaten         	0.169739
+sebastien      	0.201234
+clement        	0.181926
+norman         	0.386102
+biggest        	0.158807
+final          	0.081200
+frenchman      	0.234241
+grosjean       	0.198347
+kafelnikov     	0.172915
+moya           	0.223615
+celebr         	0.122841
+fourth         	0.140736
+stand          	0.101843
+advanc         	0.134482
+win            	0.093718

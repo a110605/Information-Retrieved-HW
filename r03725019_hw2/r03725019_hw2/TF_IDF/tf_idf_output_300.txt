@@ -1,0 +1,20 @@
+Term Number = 18
+Term			TFIDF
+plane          	0.114221
+attend         	0.146263
+ceremoni       	0.160382
+night          	0.090013
+clinton        	0.073494
+rememb         	0.158396
+mourner        	0.237558
+senat          	0.112973
+missouri       	0.294086
+resid          	0.126494
+crash          	0.134519
+mondai         	0.087673
+mel            	0.147043
+campaign       	0.102899
+carnahan       	0.147834
+governor       	0.139042
+capit          	0.101558
+presid         	0.036051

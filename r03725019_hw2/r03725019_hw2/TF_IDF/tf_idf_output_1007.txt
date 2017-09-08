@@ -1,0 +1,17 @@
+Term Number = 15
+Term			TFIDF
+tremor         	0.257534
+town           	0.150239
+mile           	0.138084
+pakistan       	0.239821
+survei         	0.249361
+epicent        	0.237635
+gujarat        	0.222330
+hyderabad      	0.393326
+bhuj           	0.233467
+geolog         	0.306708
+near           	0.120001
+quak           	0.167325
+delhi          	0.277686
+resort         	0.254697
+southeast      	0.229544

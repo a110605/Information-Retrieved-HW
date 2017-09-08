@@ -1,0 +1,23 @@
+Term Number = 21
+Term			TFIDF
+spell          	0.228633
+set            	0.073080
+storm          	0.150946
+russian        	0.093099
+coller         	0.267248
+sunken         	0.179983
+voa            	0.139908
+wednesdai      	0.087049
+submarin       	0.135970
+diver          	0.133039
+norwegian      	0.153063
+sea            	0.113969
+extend         	0.160044
+summari        	0.267248
+search         	0.096936
+hour           	0.063763
+weather        	0.148919
+kursk          	0.142437
+david          	0.139094
+nuclear        	0.145108
+barent         	0.162619

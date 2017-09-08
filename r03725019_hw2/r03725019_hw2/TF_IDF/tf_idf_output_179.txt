@@ -1,0 +1,16 @@
+Term Number = 14
+Term			TFIDF
+tens           	0.293438
+middl          	0.150583
+tonight        	0.168151
+egypt          	0.267172
+isra           	0.342949
+hope           	0.115945
+summit         	0.252341
+help           	0.089450
+situat         	0.185128
+yemen          	0.108419
+palestinian    	0.216301
+explos         	0.113667
+slightest      	0.421421
+word           	0.176909

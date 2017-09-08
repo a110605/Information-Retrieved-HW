@@ -1,0 +1,16 @@
+Term Number = 14
+Term			TFIDF
+earthquak      	0.143061
+south          	0.136139
+properti       	0.282100
+continu        	0.097527
+effort         	0.111135
+magnitud       	0.182561
+america        	0.134155
+estim          	0.180477
+peopl          	0.051156
+damag          	0.243582
+destroi        	0.177477
+quak           	0.313734
+recoveri       	0.195457
+word           	0.154795

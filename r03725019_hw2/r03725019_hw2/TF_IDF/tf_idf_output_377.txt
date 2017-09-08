@@ -1,0 +1,27 @@
+Term Number = 25
+Term			TFIDF
+sub            	0.130332
+recov          	0.073482
+cut            	0.155419
+effort         	0.061316
+submarin       	0.098461
+diver          	0.192677
+norwegian      	0.110839
+sea            	0.082529
+rear           	0.118730
+sailor         	0.051489
+compart        	0.115894
+navi           	0.053808
+enter          	0.195836
+recoveri       	0.107838
+nuclear        	0.105078
+russian        	0.134833
+wide           	0.093381
+team           	0.076531
+kill           	0.032152
+drill          	0.169623
+expect         	0.060945
+offici         	0.028511
+kursk          	0.103144
+sank           	0.117758
+barent         	0.117758

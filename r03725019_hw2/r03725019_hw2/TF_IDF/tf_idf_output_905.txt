@@ -1,0 +1,24 @@
+Term Number = 22
+Term			TFIDF
+earthquak      	0.099521
+author         	0.063359
+devast         	0.127742
+homeless       	0.167957
+increas        	0.141776
+health         	0.117741
+kill           	0.040539
+respiratori    	0.274146
+diarrhea       	0.256517
+salvadoran     	0.166107
+peopl          	0.035587
+survivor       	0.107684
+warn           	0.100311
+saturdai       	0.076381
+wake           	0.153599
+public         	0.082285
+left           	0.064394
+offici         	0.035948
+report         	0.087352
+epidem         	0.274146
+quak           	0.109125
+infect         	0.226380

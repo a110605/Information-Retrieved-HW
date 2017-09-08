@@ -1,0 +1,24 @@
+Term Number = 22
+Term			TFIDF
+leader         	0.056148
+mob            	0.160986
+torn           	0.213873
+africa         	0.122788
+muslim         	0.126999
+void           	0.219678
+drove          	0.169890
+ivori          	0.133334
+militari       	0.058983
+kill           	0.040539
+massiv         	0.122788
+opposit        	0.076612
+peopl          	0.035587
+toi            	0.244009
+coast          	0.101525
+christian      	0.160986
+street         	0.079233
+power          	0.052149
+capit          	0.083896
+demonstr       	0.109616
+fight          	0.230844
+apart          	0.120191

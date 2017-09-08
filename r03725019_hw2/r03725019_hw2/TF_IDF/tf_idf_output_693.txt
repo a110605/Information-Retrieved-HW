@@ -1,0 +1,25 @@
+Term Number = 23
+Term			TFIDF
+repair         	0.132994
+southern       	0.116409
+missil         	0.124632
+unite          	0.055073
+ago            	0.069408
+shipyard       	0.204961
+destroy        	0.156212
+wednesdai      	0.076168
+carri          	0.074543
+cole           	0.055360
+complet        	0.098088
+bomb           	0.060070
+terrorist      	0.069610
+badli          	0.138956
+atlantic       	0.178769
+yemen          	0.063245
+trip           	0.107486
+month          	0.058183
+ocean          	0.184732
+crippl         	0.137901
+vessel         	0.123882
+damag          	0.081194
+return         	0.064122

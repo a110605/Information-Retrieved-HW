@@ -1,0 +1,25 @@
+Term Number = 23
+Term			TFIDF
+fleet          	0.108874
+sundai         	0.067808
+recov          	0.085239
+spokesman      	0.071343
+russian        	0.078203
+meter          	0.252214
+abl            	0.093782
+visibl         	0.135504
+submarin       	0.114215
+diver          	0.223505
+northern       	0.116167
+ventur         	0.171618
+norwegian      	0.128573
+proce          	0.192051
+wreck          	0.174378
+search         	0.081427
+compart        	0.268874
+task           	0.129492
+russia         	0.085548
+poor           	0.148107
+damag          	0.077946
+kursk          	0.119647
+fourth         	0.118218

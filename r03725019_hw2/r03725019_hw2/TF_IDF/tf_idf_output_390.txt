@@ -1,0 +1,21 @@
+Term Number = 19
+Term			TFIDF
+yard           	0.195373
+learn          	0.146049
+night          	0.085512
+american       	0.056602
+militari       	0.067830
+cole           	0.066431
+bomb           	0.072084
+secur          	0.060888
+tight          	0.195373
+yemen          	0.075894
+attack         	0.063746
+tighter        	0.294995
+hotel          	0.276440
+investig       	0.068365
+personnel      	0.145208
+civilian       	0.152363
+threat         	0.117227
+stai           	0.100065
+traffic        	0.188982

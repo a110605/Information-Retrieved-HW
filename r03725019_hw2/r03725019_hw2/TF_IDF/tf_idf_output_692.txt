@@ -1,0 +1,27 @@
+Term Number = 25
+Term			TFIDF
+heat           	0.129686
+tonight        	0.084076
+arriv          	0.064883
+sail           	0.150926
+shipyard       	0.175681
+ship           	0.247974
+captain        	0.130939
+cole           	0.047451
+crew           	0.075291
+lot            	0.075561
+sailor         	0.053328
+yemen          	0.054210
+uss            	0.056042
+attack         	0.045533
+land           	0.108151
+protect        	0.088845
+wethi          	0.167712
+abc            	0.110953
+built          	0.129686
+fail           	0.080485
+report         	0.035877
+investig       	0.048832
+john           	0.074758
+step           	0.074495
+mississippi    	0.158341

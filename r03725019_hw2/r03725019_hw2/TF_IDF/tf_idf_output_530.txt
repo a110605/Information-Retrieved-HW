@@ -1,0 +1,15 @@
+Term Number = 13
+Term			TFIDF
+nation         	0.074586
+asia           	0.441597
+vietnam        	0.186949
+clinton        	0.174549
+countri        	0.061093
+toietnam       	0.437407
+meet           	0.116053
+brunei         	0.244217
+pacif          	0.233776
+thursdai       	0.100590
+isff           	0.437407
+visit          	0.122193
+presid         	0.085620

@@ -1,0 +1,25 @@
+Term Number = 23
+Term			TFIDF
+variou         	0.159186
+sens           	0.123882
+set            	0.063945
+shipmat        	0.184732
+bomber         	0.123144
+deck           	0.133930
+suicid         	0.089112
+cole           	0.055360
+bomb           	0.060070
+kill           	0.038850
+seen           	0.087840
+sleep          	0.142291
+sailor         	0.062216
+stricken       	0.178769
+charg          	0.072326
+pictur         	0.286930
+uss            	0.065382
+navi           	0.065018
+attack         	0.053122
+octob          	0.171172
+power          	0.049976
+hurt           	0.141150
+angl           	0.191692

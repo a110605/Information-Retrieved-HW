@@ -1,0 +1,20 @@
+Term Number = 18
+Term			TFIDF
+set            	0.085260
+week           	0.058797
+rafter         	0.205704
+sampra         	0.199851
+australian     	0.151214
+yellow         	0.280700
+australia      	0.214612
+melbourn       	0.205704
+court          	0.096434
+tune           	0.280700
+straight       	0.209980
+pete           	0.186718
+classic        	0.280700
+coloni         	0.222377
+beat           	0.146059
+patrick        	0.166176
+near           	0.100001
+semi           	0.242192

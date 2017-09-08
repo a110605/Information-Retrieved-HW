@@ -1,0 +1,24 @@
+Term Number = 22
+Term			TFIDF
+tonight        	0.102353
+star           	0.144998
+australian     	0.118341
+american       	0.049219
+tenni          	0.144998
+tournament     	0.133334
+clement        	0.166107
+elimin         	0.153599
+grand          	0.122124
+sun            	0.166107
+arnot          	0.304283
+slam           	0.127742
+agassi         	0.273771
+pick           	0.125549
+seventh        	0.154979
+andr           	0.204171
+victori        	0.089429
+titl           	0.134195
+sport          	0.126999
+win            	0.085568
+french         	0.119566
+oppon          	0.117150

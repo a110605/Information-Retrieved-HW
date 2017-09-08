@@ -1,0 +1,25 @@
+Term Number = 23
+Term			TFIDF
+question       	0.058305
+initial        	0.171474
+occur          	0.099779
+past           	0.073460
+official       	0.094350
+ship           	0.123987
+abl            	0.083734
+cole           	0.047451
+rais           	0.088845
+secur          	0.043492
+boat           	0.079869
+help           	0.044725
+tie            	0.132238
+yemen          	0.054210
+hour           	0.047822
+uss            	0.056042
+navi           	0.167189
+attack         	0.091066
+chang          	0.144907
+nearli         	0.080485
+explos         	0.056833
+dock           	0.116459
+account        	0.077507

@@ -1,0 +1,25 @@
+Term Number = 23
+Term			TFIDF
+independ       	0.100992
+sundai         	0.070634
+guei           	0.140038
+govern         	0.047287
+author         	0.060719
+ivori          	0.127779
+rule           	0.071471
+militari       	0.113050
+run            	0.060719
+fals           	0.149888
+elect          	0.052715
+opposit        	0.073419
+spread         	0.126176
+robert         	0.103652
+rumor          	0.148522
+coast          	0.097295
+charg          	0.072326
+presidenti     	0.066681
+favor          	0.129445
+reject         	0.120318
+undermin       	0.181644
+plan           	0.061377
+vote           	0.074543

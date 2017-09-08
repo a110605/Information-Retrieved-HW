@@ -1,0 +1,23 @@
+Term Number = 21
+Term			TFIDF
+reward         	0.134437
+murder         	0.121891
+arrest         	0.092286
+author         	0.116580
+freight        	0.252214
+continu        	0.062417
+follow         	0.065115
+texa           	0.193083
+spread         	0.121129
+overnight      	0.151185
+charg          	0.069433
+mexico         	0.138886
+search         	0.162853
+christma       	0.114855
+post           	0.098636
+fugit          	0.216644
+true           	0.136600
+tip            	0.116839
+robberi        	0.119647
+capit          	0.077184
+train          	0.118218

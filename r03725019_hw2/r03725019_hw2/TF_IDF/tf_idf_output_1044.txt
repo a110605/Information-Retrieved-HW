@@ -1,0 +1,18 @@
+Term Number = 16
+Term			TFIDF
+sundai         	0.099718
+australian     	0.160108
+tenni          	0.196173
+clement        	0.224733
+grand          	0.165227
+slam           	0.172827
+agassi         	0.370396
+blew           	0.191814
+arnaud         	0.245017
+defend         	0.129572
+seventh        	0.209678
+andr           	0.276231
+frenchman      	0.289357
+titl           	0.181558
+champion       	0.175952
+crown          	0.289357

@@ -1,0 +1,21 @@
+Term Number = 19
+Term			TFIDF
+tonight        	0.107005
+slobodan       	0.098283
+mass           	0.149315
+rule           	0.077968
+court          	0.078901
+attempt        	0.103637
+yugoslavia     	0.097214
+elect          	0.115015
+opposit        	0.080094
+ralli          	0.098283
+countri        	0.044431
+expect         	0.080336
+annul          	0.209119
+presidenti     	0.072743
+lost           	0.090358
+claim          	0.097214
+step           	0.094812
+time           	0.072545
+milosev        	0.190970

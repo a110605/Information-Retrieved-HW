@@ -1,0 +1,26 @@
+Term Number = 24
+Term			TFIDF
+prime          	0.086013
+remnant        	0.226919
+burn           	0.121091
+tonight        	0.090543
+violent        	0.134692
+troubl         	0.109216
+minist         	0.071417
+lieuten        	0.165018
+chief          	0.065973
+protest        	0.081961
+parliament     	0.113003
+demand         	0.103116
+regim          	0.109216
+yugoslavia     	0.082258
+countri        	0.037596
+outsid         	0.070528
+fall           	0.106885
+build          	0.071643
+spot           	0.134692
+polic          	0.063151
+power          	0.046131
+resign         	0.197515
+milosev        	0.161590
+presid         	0.026345

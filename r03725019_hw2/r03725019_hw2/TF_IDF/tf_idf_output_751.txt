@@ -1,0 +1,26 @@
+Term Number = 24
+Term			TFIDF
+doubl          	0.117403
+septemb        	0.104032
+upcom          	0.173923
+week           	0.039198
+pine           	0.177825
+australian     	0.302427
+match          	0.101852
+anke           	0.233532
+tenni          	0.123517
+injuri         	0.105755
+tournament     	0.113581
+grand          	0.104032
+sprain         	0.187133
+wrist          	0.218515
+plai           	0.078641
+slam           	0.108817
+hardcourt      	0.218515
+pull           	0.080083
+huber          	0.467064
+withdrew       	0.156516
+jan            	0.120772
+championship   	0.187133
+royal          	0.187133
+women          	0.086484

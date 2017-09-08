@@ -1,0 +1,27 @@
+Term Number = 25
+Term			TFIDF
+strong         	0.093622
+death          	0.063333
+nation         	0.045899
+salvador       	0.242182
+scale          	0.146941
+america        	0.082557
+peopl          	0.031480
+score          	0.130292
+richter        	0.194331
+saturdai       	0.067568
+central        	0.098302
+seismologist   	0.194331
+kilomet        	0.226919
+earthquak      	0.088038
+occur          	0.107455
+center         	0.077761
+kill           	0.035862
+emerg          	0.090543
+coast          	0.089810
+mexico         	0.133544
+pacif          	0.143862
+declar         	0.092438
+injur          	0.074216
+quak           	0.096534
+regist         	0.137097

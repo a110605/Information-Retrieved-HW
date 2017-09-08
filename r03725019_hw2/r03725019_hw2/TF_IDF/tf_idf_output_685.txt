@@ -1,0 +1,18 @@
+Term Number = 16
+Term			TFIDF
+pope           	0.283963
+vladimir       	0.131453
+week           	0.052917
+russian        	0.195508
+sentenc        	0.122232
+pardon         	0.124383
+american       	0.056602
+clinton        	0.069820
+espionag       	0.173607
+russia         	0.106935
+putin          	0.273583
+prais          	0.183315
+edmond         	0.176639
+prison         	0.102134
+convict        	0.109316
+presid         	0.068496

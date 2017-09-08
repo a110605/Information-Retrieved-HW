@@ -1,0 +1,13 @@
+Term Number = 11
+Term			TFIDF
+agassi         	0.286215
+cnn            	0.282426
+winner         	0.231287
+andr           	0.426902
+ginger         	0.573215
+headlin        	0.343603
+australian     	0.247440
+capriati       	0.318364
+jennif         	0.292211
+sport          	0.265543
+geofferi       	0.636228

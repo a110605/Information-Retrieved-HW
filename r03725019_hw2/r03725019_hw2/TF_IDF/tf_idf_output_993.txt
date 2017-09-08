@@ -1,0 +1,25 @@
+Term Number = 23
+Term			TFIDF
+escap          	0.106987
+leader         	0.053808
+murder         	0.126969
+captur         	0.122419
+death          	0.068610
+newspap        	0.122419
+offic          	0.095286
+ring           	0.204961
+told           	0.057271
+court          	0.072326
+kill           	0.038850
+texa           	0.100564
+shot           	0.110613
+expect         	0.073642
+charg          	0.072326
+christma       	0.119641
+execut         	0.113993
+proclaim       	0.171172
+riva           	0.162811
+polic          	0.068413
+capit          	0.080400
+georg          	0.093538
+prison         	0.085112

@@ -1,0 +1,25 @@
+Term Number = 23
+Term			TFIDF
+suez           	0.146719
+africa         	0.100862
+week           	0.075596
+egypt          	0.133586
+bring          	0.077222
+rout           	0.101415
+ship           	0.061994
+cole           	0.047451
+transport      	0.106828
+platform       	0.144788
+terrorist      	0.059665
+vulner         	0.122970
+trip           	0.092131
+blue           	0.113210
+exampl         	0.118201
+gigant         	0.249947
+iron           	0.126170
+canal          	0.282428
+goe            	0.125072
+plan           	0.105218
+pentagon       	0.232521
+marlin         	0.153231
+shortest       	0.249947

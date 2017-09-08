@@ -1,0 +1,18 @@
+Term Number = 16
+Term			TFIDF
+earthquak      	0.127166
+desper         	0.185275
+death          	0.182961
+natur          	0.172594
+homeless       	0.214612
+fridai         	0.090180
+india          	0.154389
+toll           	0.145360
+water          	0.125684
+contamin       	0.388806
+survivor       	0.275191
+help           	0.069573
+chang          	0.112705
+offici         	0.045934
+crisi          	0.167196
+western        	0.122373

@@ -1,0 +1,20 @@
+Term Number = 18
+Term			TFIDF
+cnn            	0.172594
+dominik        	0.234773
+rafter         	0.205704
+resist         	0.196265
+outlast        	0.311790
+anthoni        	0.205704
+littl          	0.106162
+todd           	0.219666
+keith          	0.255590
+agassi         	0.174909
+hrbati         	0.234773
+andr           	0.260885
+headlin        	0.209980
+martin         	0.222377
+patrick        	0.166176
+semi           	0.242192
+sport          	0.162276
+jame           	0.165175

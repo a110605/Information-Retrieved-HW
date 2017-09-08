@@ -1,0 +1,14 @@
+Term Number = 12
+Term			TFIDF
+slam           	0.244839
+doubl          	0.264156
+career         	0.257207
+lindsai        	0.273745
+set            	0.127890
+william        	0.169639
+corina         	0.467685
+morariu        	0.467685
+complet        	0.196177
+davenport      	0.267860
+grand          	0.234071
+sister         	0.262364

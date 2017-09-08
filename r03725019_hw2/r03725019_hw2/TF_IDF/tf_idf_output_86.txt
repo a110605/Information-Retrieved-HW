@@ -1,0 +1,21 @@
+Term Number = 19
+Term			TFIDF
+compet         	0.211296
+ivori          	0.153334
+resist         	0.176639
+shock          	0.161865
+appeal         	0.122232
+elect          	0.063258
+opposit        	0.088103
+figur          	0.123296
+ouattara       	0.359731
+plead          	0.178226
+violenc        	0.116754
+calm           	0.168046
+coast          	0.116754
+bar            	0.150476
+presidenti     	0.080017
+month          	0.069820
+alassan        	0.185134
+decis          	0.092261
+support        	0.069820

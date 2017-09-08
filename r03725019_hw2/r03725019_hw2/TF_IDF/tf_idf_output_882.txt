@@ -1,0 +1,23 @@
+Term Number = 21
+Term			TFIDF
+earthquak      	0.108999
+dave           	0.195626
+salvador       	0.149922
+devast         	0.139908
+rural          	0.211122
+remot          	0.201234
+survei         	0.178115
+voa            	0.139908
+kill           	0.044400
+water          	0.107729
+food           	0.137506
+peopl          	0.038976
+red            	0.122841
+saturdai       	0.083655
+struggl        	0.129612
+deforest       	0.223615
+offici         	0.039372
+damag          	0.092793
+report         	0.047836
+worker         	0.097607
+heavi          	0.134482

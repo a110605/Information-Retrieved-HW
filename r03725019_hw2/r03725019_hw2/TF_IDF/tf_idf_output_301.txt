@@ -1,0 +1,26 @@
+Term Number = 24
+Term			TFIDF
+arriv          	0.072669
+incid          	0.125934
+recov          	0.085239
+august         	0.141311
+russian        	0.156407
+remain         	0.048098
+safeti         	0.130434
+british        	0.118926
+forc           	0.043835
+prepar         	0.085859
+submarin       	0.114215
+danger         	0.094551
+diver          	0.111753
+crewmen        	0.187837
+concern        	0.093782
+warn           	0.092286
+scandinavian   	0.279940
+offici         	0.033072
+spot           	0.140080
+kursk          	0.119647
+job            	0.094551
+nuclear        	0.121891
+sank           	0.136600
+tricki         	0.208270

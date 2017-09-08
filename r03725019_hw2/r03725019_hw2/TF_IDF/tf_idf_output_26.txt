@@ -1,0 +1,23 @@
+Term Number = 21
+Term			TFIDF
+crackdown      	0.187837
+sundai         	0.067808
+govern         	0.045395
+student        	0.120381
+busi           	0.099948
+runoff         	0.141311
+belgrad        	0.095734
+schedul        	0.105672
+yugoslavia     	0.085548
+elect          	0.151820
+opposit        	0.140965
+parti          	0.069641
+ralli          	0.086489
+factori        	0.160111
+warn           	0.092286
+candid         	0.081148
+commiss        	0.098209
+close          	0.057667
+support        	0.111711
+vote           	0.071561
+win            	0.078723

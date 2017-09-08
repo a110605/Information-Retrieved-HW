@@ -1,0 +1,12 @@
+Term Number = 10
+Term			TFIDF
+sailor         	0.271487
+yemen          	0.137988
+norfolk        	0.253983
+continu        	0.141857
+injur          	0.175419
+investig       	0.124300
+virginia       	0.262512
+bomb           	0.131062
+kill           	0.084764
+return         	0.139902

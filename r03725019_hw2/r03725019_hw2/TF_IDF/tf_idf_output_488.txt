@@ -1,0 +1,22 @@
+Term Number = 20
+Term			TFIDF
+tonight        	0.112101
+role           	0.139094
+yemeni         	0.101843
+question       	0.155479
+bomber         	0.140736
+weekend        	0.134482
+suicid         	0.101843
+touch          	0.161314
+cole           	0.063268
+suspect        	0.097271
+bomb           	0.068652
+fbi            	0.108149
+countri        	0.046547
+yemen          	0.072280
+uss            	0.074722
+pick           	0.137506
+attack         	0.060711
+offici         	0.039372
+octob          	0.195626
+polic          	0.078187

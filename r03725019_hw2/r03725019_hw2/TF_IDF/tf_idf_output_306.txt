@@ -1,0 +1,18 @@
+Term Number = 16
+Term			TFIDF
+plane          	0.127659
+clinton        	0.082141
+gather         	0.146982
+mourner        	0.265506
+missouri       	0.164342
+crash          	0.150345
+mondai         	0.097988
+presidenti     	0.094138
+servic         	0.099136
+democrat       	0.207302
+memori         	0.172827
+candid         	0.119335
+mel            	0.164342
+carnahan       	0.165227
+governor       	0.155400
+presid         	0.040292

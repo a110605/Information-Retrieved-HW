@@ -1,0 +1,21 @@
+Term Number = 19
+Term			TFIDF
+earthquak      	0.228898
+intern         	0.091973
+death          	0.082333
+salvador       	0.157418
+shift          	0.197699
+led            	0.108911
+unleash        	0.269454
+attempt        	0.114001
+toll           	0.130824
+surviv         	0.119169
+expect         	0.088370
+help           	0.062615
+saturdai       	0.087838
+attent         	0.142769
+aliv           	0.128385
+left           	0.074053
+mudslid        	0.269454
+rise           	0.141981
+worker         	0.102487

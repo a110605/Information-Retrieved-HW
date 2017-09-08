@@ -1,0 +1,24 @@
+Term Number = 22
+Term			TFIDF
+tonight        	0.094165
+arriv          	0.072669
+portsmouth     	0.215563
+hospit         	0.100847
+remain         	0.048098
+militari       	0.054264
+cole           	0.106290
+transport      	0.119647
+famili         	0.065489
+head           	0.066825
+sailor         	0.119454
+welcom         	0.124268
+wound          	0.191467
+norfolk        	0.111753
+respir         	0.252214
+uss            	0.062767
+naval          	0.092655
+rel            	0.107241
+injur          	0.077184
+aboard         	0.098636
+virginia       	0.115505
+board          	0.114215

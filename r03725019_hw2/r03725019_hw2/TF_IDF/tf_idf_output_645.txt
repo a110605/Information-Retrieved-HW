@@ -1,0 +1,27 @@
+Term Number = 25
+Term			TFIDF
+repair         	0.227989
+arriv          	0.064883
+week           	0.037798
+monei          	0.080485
+congress       	0.081429
+suicid         	0.076382
+cole           	0.094902
+bomb           	0.051489
+sailor         	0.053328
+yemen          	0.054210
+earlier        	0.062931
+fix            	0.150926
+uss            	0.056042
+navi           	0.111459
+damag          	0.069595
+cost           	0.117319
+destroy        	0.066948
+kill           	0.033300
+littl          	0.068247
+estim          	0.103130
+figur          	0.088068
+injur          	0.068914
+octob          	0.146719
+mississippi    	0.158341
+revis          	0.150926

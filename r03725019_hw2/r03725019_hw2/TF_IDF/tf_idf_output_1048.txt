@@ -1,0 +1,22 @@
+Term Number = 20
+Term			TFIDF
+arriv          	0.082578
+govern         	0.051585
+contribut      	0.143107
+effort         	0.080825
+carri          	0.081319
+team           	0.100881
+famili         	0.074419
+india          	0.252637
+morn           	0.093820
+respons        	0.083351
+mondai         	0.075718
+help           	0.056923
+left           	0.067321
+disast         	0.121263
+person         	0.103637
+airlift        	0.255101
+recoveri       	0.142150
+relief         	0.129074
+washington     	0.074848
+suppli         	0.271925

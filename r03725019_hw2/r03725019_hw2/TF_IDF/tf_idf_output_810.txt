@@ -1,0 +1,24 @@
+Term Number = 22
+Term			TFIDF
+coupl          	0.137901
+item           	0.210525
+missil         	0.124632
+intern         	0.153288
+death          	0.068610
+russian        	0.081462
+remain         	0.050102
+reactor        	0.224545
+difficult      	0.106987
+submarin       	0.118974
+team           	0.092474
+rais           	0.103652
+summer         	0.160959
+oversea        	0.157485
+crue           	0.291605
+sailor         	0.124432
+pai            	0.132078
+salvag         	0.184732
+commun         	0.094630
+oper           	0.079621
+nuclear        	0.126969
+board          	0.118974

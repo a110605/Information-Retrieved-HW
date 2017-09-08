@@ -1,0 +1,21 @@
+Term Number = 19
+Term			TFIDF
+recov          	0.106549
+cut            	0.112679
+delai          	0.173607
+russian        	0.195508
+begun          	0.178226
+sunken         	0.188982
+effort         	0.088908
+submarin       	0.142769
+diver          	0.139691
+norwegian      	0.160716
+resum          	0.181561
+expect         	0.088370
+compart        	0.168046
+induc          	0.294995
+ninth          	0.200139
+weather        	0.156365
+kursk          	0.149559
+enter          	0.141981
+nuclear        	0.152363

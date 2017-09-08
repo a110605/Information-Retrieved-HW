@@ -1,0 +1,16 @@
+Term Number = 14
+Term			TFIDF
+initi          	0.168078
+doom           	0.320086
+horrifi        	0.359271
+submarin       	0.380717
+famili         	0.109148
+surviv         	0.158893
+loss           	0.191425
+sailor         	0.099545
+month          	0.093093
+russia         	0.142580
+explos         	0.106089
+kursk          	0.199412
+victim         	0.156941
+discov         	0.225839

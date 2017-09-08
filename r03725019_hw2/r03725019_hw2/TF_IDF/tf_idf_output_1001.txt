@@ -1,0 +1,19 @@
+Term Number = 17
+Term			TFIDF
+date           	0.207810
+set            	0.090275
+sebastien      	0.248584
+australia      	0.227236
+outlast        	0.330130
+clement        	0.224733
+gruel          	0.317004
+agassi         	0.185198
+saturdai       	0.103339
+arnaud         	0.245017
+hour           	0.078766
+andr           	0.276231
+final          	0.100306
+frenchman      	0.289357
+friend         	0.153911
+grosjean       	0.245017
+win            	0.115769

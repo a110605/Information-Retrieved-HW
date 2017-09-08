@@ -1,0 +1,25 @@
+Term Number = 23
+Term			TFIDF
+venu           	0.273199
+game           	0.118218
+set            	0.061387
+seed           	0.231011
+level          	0.093403
+abl            	0.093782
+bit            	0.126795
+littl          	0.076437
+manag          	0.100847
+struggl        	0.108874
+guess          	0.164326
+william        	0.081427
+aussi          	0.196763
+beat           	0.105162
+mauresmo       	0.208270
+time           	0.031920
+advanc         	0.112965
+plan           	0.058922
+win            	0.078723
+walk           	0.110576
+ameli          	0.208270
+quarter        	0.142581
+stai           	0.080052

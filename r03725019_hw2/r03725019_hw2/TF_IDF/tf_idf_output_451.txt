@@ -1,0 +1,27 @@
+Term Number = 25
+Term			TFIDF
+recov          	0.078925
+tuesdai        	0.070320
+origin         	0.117403
+main           	0.081277
+section        	0.150151
+focu           	0.119049
+submarin       	0.105755
+diver          	0.103475
+sea            	0.088642
+crew           	0.156160
+switch         	0.148251
+unknown        	0.124479
+rear           	0.127525
+near           	0.066667
+nuclear        	0.112862
+escap          	0.095100
+perish         	0.177825
+august         	0.130843
+forward        	0.109461
+hatch          	0.141498
+sunken         	0.139986
+kill           	0.034533
+explos         	0.058938
+kursk          	0.221569
+barent         	0.126481
