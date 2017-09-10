@@ -17,9 +17,7 @@ In homework 3, we implement [Naive Bayes Alogrithm](https://en.wikipedia.org/wik
 
 The training set includes 13 classes (each class has 15 training documents). The remaining documents are for the testing.
 
-Finally, we generate a output file to record our classification results.
-HAC clustering:
- 
+Finally, we generate a output file to record our classification results. 
  <img src="https://github.com/a110605/Information-Retrieved-HW/blob/master/pictures/3.png"  >
 
 
